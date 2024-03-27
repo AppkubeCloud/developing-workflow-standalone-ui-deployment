@@ -1,2 +1,1 @@
-# developing-workflow-standalone-ui-deployment
-Testing and developing workflow UI
+# workflow-standalone-ui-deployment
